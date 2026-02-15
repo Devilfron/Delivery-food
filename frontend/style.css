@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    color: red;
+}
+
+.main {
+    
+}
+
+.footer {
+   
+}
+
+.container {
+    border: 1px solid blue; 
+    max-width: 1230px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
